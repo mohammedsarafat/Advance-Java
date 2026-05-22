@@ -1,0 +1,29 @@
+HibernateProjectDay03_One_to_one_mapping
+│
+├── src/main/java
+│   │
+│   ├── com.nit.dao
+│   │   └── CardDriver.java
+│   │
+│   └── com.nit.dto
+│       ├── PanCard.java
+│       └── Person.java
+│
+├── src/main/resources
+│   │
+│   └── META-INF
+│       └── persistence.xml
+│
+├── src/test/java
+│
+├── src/test/resources
+│
+├── JRE System Library [JavaSE-1.8]
+│
+├── Maven Dependencies
+│
+├── src
+│
+├── target
+│
+└── pom.xml
